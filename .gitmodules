@@ -1,0 +1,6 @@
+[submodule "node_modules/connect-auth"]
+	path = node_modules/connect-auth
+	url = git@github.com:ajaxorg/connect-auth.git
+[submodule "node_modules/connect"]
+	path = node_modules/connect
+	url = https://github.com/ajaxorg/connect.git

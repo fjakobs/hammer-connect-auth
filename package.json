@@ -1,0 +1,10 @@
+{
+    "name": "hammer-connect-auth",
+    "dependencies": {
+        "colors": "0.5.x",
+        "connect": "0.3.x",
+        "connect-auth": "0.2.x",
+        "jsdom": "0.2.1",
+        "underscore": "1.2.x"
+    }
+}
